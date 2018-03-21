@@ -43,4 +43,5 @@ Connect to Bhamashah ,so the details are automatically fetched
 The reports , tests , prescriptions will be also saved.
 
 
+*Note :- The server is build with the ip connection through ethernet but now it is being plugged off so the server's local ip has been changed. We can configure for any ip within minutes. Just replace old ip with new ip source code or contact lokesh.
 
